@@ -1,0 +1,14 @@
+jp-table table { 
+;	border			: 1px solid black
+}
+
+jp-table th {
+;	border-bottom	: 1px solid black
+;	cursor			: pointer
+;	padding			: 3px
+}
+
+jp-table td {
+;	padding			: 3px
+}
+
