@@ -9,11 +9,11 @@ https://satachito.github.io/jp-table/
 
 ## Sample
 
-### Static HTML & CSS
-
 Change path to .js and .css files to point those right location.<br>
 ex)<br>
 If you installed jp-table by NPM, the .js file's path may be `@satachito/jp-table/jp-table.js`<br>
+
+### Static HTML & CSS
 
 ```
 <link rel="stylesheet" href=jp-table.css>
