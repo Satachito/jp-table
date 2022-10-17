@@ -6,6 +6,7 @@ Supporting headless table.
 ## Demo
 
 https://satachito.github.io/jp-table/
+https://recrateg.web.app/All.html
 
 ## Sample
 
