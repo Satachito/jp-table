@@ -7,6 +7,8 @@ Supporting headless table.
 
 https://satachito.github.io/jp-table/
 
+https://recrateg.web.app/All.html
+
 ## Sample
 
 Change path to .js and .css files to point those right location.<br>
