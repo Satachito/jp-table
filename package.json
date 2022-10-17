@@ -1,0 +1,24 @@
+{
+  "name": "@satachito/jp-table",
+  "version": "1.0.0",
+  "description": "Sortable table WebComponent",
+  "main": "_.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satachito/jp-table.git"
+  },
+  "keywords": [
+    "table",
+    "WebComponent",
+    "javascript"
+  ],
+  "author": "Satoru Ogura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Satachito/jp-table/issues"
+  },
+  "homepage": "https://github.com/Satachito/jp-table#readme"
+}

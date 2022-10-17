@@ -8,6 +8,13 @@ jp-table th {
 ;	padding			: 3px
 }
 
+jp-table th[ sort=true ]::after {
+;	content			: '↓'
+}
+jp-table th[ sort=false ]::after {
+;	content			: '↑'
+}
+
 jp-table td {
 ;	padding			: 3px
 }
