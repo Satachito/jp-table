@@ -34,7 +34,7 @@ Data format: Headless
 const
 E = ( tag, text ) => {
 	const $ = document.createElement( tag )
-	text && ( $.textContent = text )
+	text !== void 0 && ( $.textContent = text )
 	return $
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "@satachito/jp-table",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Sortable table WebComponent",
   "main": "_.js",
   "scripts": {
